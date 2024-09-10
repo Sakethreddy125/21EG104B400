@@ -1,0 +1,2 @@
+Egg Catching Game
+This is a fun egg-catching game created with Python's Tkinter library. Players use the left and right arrow keys to catch falling eggs while avoiding missed catches. The game gets more challenging as you score points. Try to get the highest score before losing all your lives!
